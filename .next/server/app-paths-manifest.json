@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/tools/congestion-prediction/page": "app/tools/congestion-prediction/page.js",
+  "/tools/traffic-routing/page": "app/tools/traffic-routing/page.js",
+  "/tools/self-healing/page": "app/tools/self-healing/page.js",
+  "/tools/insights-reports/page": "app/tools/insights-reports/page.js"
+}
